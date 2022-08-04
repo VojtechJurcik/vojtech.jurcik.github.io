@@ -74,8 +74,8 @@ params:
 #          collection: projects
 #        - feature: publications
 #          style: IEEE # IEEE, APA, else
-#        - feature: awards
-#        - feature: certificates
+        - feature: awards
+        - feature: certificates
           title: Certifications
         - feature: interests
           widget: word-list
