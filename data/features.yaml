@@ -1,8 +1,8 @@
 about:
   name: Vojtěch Jurčík
   tagline: System Engineer
-  phone: "5070*4****"
-  email: vojtech.jurcik@gmail.com
+  phone: "+420 731 616 nine eight eight"
+  email: vojtech.jurcik at gmail dot com
   links:
     - title: /in/mertbakir
       url: https://tr.linkedin.com/in/mertbakir
@@ -23,19 +23,21 @@ about:
 skills:
   - groupName: Databases & Visualization
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - Grafana 
+      - InfluxDB
 
   - groupName: Data Analysis & Analytics
     list:
-      - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
+      - Python - SQL 
 
-  - groupName: Programming & Systems
+  - groupName: "Systems"
     list:
-      - C# - Git - Docker - NGINX
+      - Windows Server 2012R - 2019 / 10 
       - Linux - CentOS RHEL
+
+  - groupName: DevOps
+    list:
+      - Kubernetes
 
 interests:
   - Data Science
