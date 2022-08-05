@@ -1,4 +1,4 @@
-baseURL: "https://vojtechjurcik.github.io/"
+baseURL: "localhost/"
 languageCode: "en-us"
 title: "Resume | Vojtech Jurcik"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
