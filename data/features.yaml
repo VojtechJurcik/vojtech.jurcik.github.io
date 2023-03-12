@@ -1,6 +1,6 @@
 about:
   name: Vojtěch Jurčík
-  tagline: System Engineer
+  tagline: DevOps Engineer
   phone: "+420 731 616 nine eight eight"
   email: vojtech.jurcik at gmail dot com
   links:
@@ -38,6 +38,7 @@ skills:
   - groupName: DevOps
     list:
       - Kubernetes
+      - OpenShift 4
 
 interests:
   - Data Science
