@@ -1,27 +1,29 @@
 - company: Trask
   roles:
-    - role: Senior System Engineer
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
+    - role: DevOps Engineer
       date: "7.2022 -  Present"
+      details: "- Implemented and managed CI/CD pipelines using Github Actions. \n
+                - Deployed and managed applications with ArgoCD, ensuring seamless release cycles. \n
+                - Utilized Artifactory for managing artifacts and dependencies. \n
+                - Administered and scaled OpenShift 4 clusters, optimizing resource utilization. \n
+                - Managed Red Hat Enterprise Linux (RHEL) servers for various applications. \n 
+                - Managed applications on Apache Tomcat and Nginx, ensuring optimal performance."
+                
 
 - company: Anect
-  roles: 
-    - role: System Engineer 
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
+  roles:
+    - role: System Engineer
       date: "03.2019 - 7.2022"
-    
+      details: " - Designed, implemented, and maintained Linux-based IT infrastructure, including servers, storage, and networking equipment. \n
+                - Configured and managed virtualization technologies such as VMware. \n
+                - Automated system administration tasks using scripting languages such as Bash and Python."
+      
+- company: Anect  
+  roles:  
     - role: System Administrator
       date: "7.2016 - 03.2019"
-      details:  "- Responsible for maintaining and troubleshooting Cisco network equipment, including switches, routers, and firewalls."
-                "- Managed Windows Server infrastructure, including Active Directory, DNS, DHCP, and file services."
-                "- Configured and supported Microsoft Exchange Server for email and collaboration services."
-                "- Monitored system performance and implemented proactive measures to ensure high availability and reliability of the IT infrastructure."
-                "- Performed regular system backups and disaster recovery tests to ensure data integrity and availability."
-                "- Participated in on-call rotations to provide 24/7 support for critical IT systems and infrastructure."
-                "- Provided technical support to end-users, resolved technical issues, and maintained documentation of support incidents."
-                "- Conducted system security assessments and implemented security best practices to protect the IT infrastructure from threats and vulnerabilities."
-                "- Contributed to the development of IT policies, procedures, and standards to ensure compliance with regulatory requirements and industry best practices."
+      details:  "- Managed Windows Server infrastructure, including Active Directory, DNS, DHCP, and Exchange Server. \n
+                - Responsible for maintaining and troubleshooting Cisco network equipment, including switches, routers.\n
+                - Participated in on-call rotations to provide 24/7 support for critical IT systems and infrastructure. \n
+                - Provided technical support to end-users, resolved technical issues, and maintained documentation of support incidents."
 

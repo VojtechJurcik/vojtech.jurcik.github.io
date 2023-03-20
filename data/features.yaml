@@ -4,20 +4,14 @@ about:
   phone: "+420 731 616 nine eight eight"
   email: vojtech.jurcik at gmail dot com
   links:
-    - title: /in/mertbakir
-      url: https://tr.linkedin.com/in/mertbakir
-      icon: fab fa-linkedin
-    - title: mertbakir
-      url: https://gitlab.com/mertbakir/
-      icon: fab fa-gitlab
-    - title: mertbakir
-      url: https://github.com/mertbakir
+    - title: /in/vojtech-jurcik
+      url: https://www.linkedin.com/in/vojtech-jurcik/
+      icon: fab fa-linkedin-in
+    - title: GitHub
+      url: https://github.com/VojtechJurcik
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
-
-    Nam suscipit nisi a bibendum lacinia.
+      Test
 
 
 skills:
@@ -25,6 +19,8 @@ skills:
     list:
       - Grafana 
       - InfluxDB
+      - MySQL
+      - PostgreSQL
 
   - groupName: Data Analysis & Analytics
     list:
@@ -32,18 +28,18 @@ skills:
 
   - groupName: "Systems"
     list:
-      - Windows Server 2012R - 2019 / 10 
-      - Linux - CentOS RHEL
+      - Linux - RHEL, Ubuntu
 
   - groupName: DevOps
     list:
       - Kubernetes
       - OpenShift 4
+      - Podman
+      - 
+    
 
 interests:
-  - Data Science
-  - AI Applications
-  - Optimization Problems
+  - Problem solving
 
 languages:
   - name: Czech
