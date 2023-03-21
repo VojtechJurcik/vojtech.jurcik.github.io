@@ -29,6 +29,7 @@ skills:
       - OpenShift 
       - Artifactory
       - Ansible
+      - Java
 
   - groupName: "Systems"
     list:
