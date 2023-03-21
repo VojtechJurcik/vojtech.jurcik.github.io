@@ -4,42 +4,40 @@ about:
   phone: "+420 731 616 nine eight eight"
   email: vojtech.jurcik at gmail dot com
   links:
-    - title: /in/vojtech-jurcik
+    - title: LinkedIn
       url: https://www.linkedin.com/in/vojtech-jurcik/
       icon: fab fa-linkedin-in
     - title: GitHub
       url: https://github.com/VojtechJurcik
       icon: fab fa-github
+    - title: RedHat certification
+      url: https://rhtapps.redhat.com/verify?certId=220-155-998
+      icon: fab fa-redhat
   details: |
       Because superheroes don't wait for deployment windows
 
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: DevOps
     list:
-      - Grafana 
-      - InfluxDB
-      - MySQL
-      - PostgreSQL
-
-  - groupName: Data Analysis & Analytics
-    list:
-      - Python - SQL 
+      - GIT
+      - GitHub Actions
+      - Jenkins
+      - ArgoCD
+      - Helm
+      - Kubernetes
+      - OpenShift 
+      - Artifactory
+      - Ansible
 
   - groupName: "Systems"
     list:
       - Linux - RHEL, Ubuntu
 
-  - groupName: DevOps
-    list:
-      - Kubernetes
-      - OpenShift 4
-      - Podman
-      - 
-    
 
-interests:
-  - Problem solving
+certifications:
+  - RedHat EX180 - Certified Specialist in Containers and Kubernetes exam
+  - 
 
 languages:
   - name: Czech

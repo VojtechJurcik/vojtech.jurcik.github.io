@@ -56,13 +56,14 @@ params:
     links: true
   side:
     - feature: languages
+    - feature: certifications
+      widget: word-list
+      style: list  
     - feature: skills
       widget: word-list
-      style: compact # list, compact, title-list
+      style: title-list # list, compact, title-list
     - feature: education
-    - feature: interests
-      widget: word-list
-      style: list
+
   pages:
     - features:
         - feature: about
